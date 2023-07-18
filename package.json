@@ -20,7 +20,7 @@
 		"jquery": "^3.5.1",
 		"mocha": "^8.0.1",
 		"mongodb": "^3.5.9",
-		"mongoose": "^5.8.11",
+		"mongoose": "^5.13.20",
 		"zombie": "^6.1.4"
 	},
 	"devDependencies": {
